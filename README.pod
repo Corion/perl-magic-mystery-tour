@@ -5,6 +5,6 @@ Perl Magic Mystery Tour - illustrate how Perl uses Magic to implement features
 =head2 Intention
 
 This is intended as a companion to
-L<Perlguts Illustrated|cpansearch.perl.org/dist/illguts/index-18.html>
+L<Perlguts Illustrated|http://cpansearch.perl.org/dist/illguts/index-18.html>
 , showing how the different kinds of Magic use the fields in the
 data structures associated with it.
